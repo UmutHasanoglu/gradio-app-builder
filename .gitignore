@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node.js
+node_modules/
+build/
+dist/
+
+# OS Files
+.DS_Store
+
+# Others
+*.log
